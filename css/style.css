@@ -1,0 +1,12 @@
+
+body {    
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style-position: outside;
+    padding-left: 0;
+    text-align: center;
+}
